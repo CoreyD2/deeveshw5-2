@@ -1,0 +1,5 @@
+#!/bin/bash
+
+g++ makeLED-hw5.cpp -o makeLED-hw5
+
+
